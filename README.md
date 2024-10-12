@@ -6,9 +6,9 @@ This repository contains the backend code for the **AssetsAccess** platform, whi
 
 - **Node.js**: JavaScript runtime for building the backend services.
 - **Express.js**: Web framework for building RESTful APIs.
-- **MongoDB**: NoSQL database for storing user and asset data.
+- **Sequelize**: ORM for interacting with database.
 - **JWT**: For secure user authentication.
-- **Mongoose**: ODM library for MongoDB to simplify data modeling.
+- **MySql**: The database
 
 ## Key Features
 
